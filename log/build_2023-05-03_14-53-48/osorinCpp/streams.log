@@ -1,0 +1,67 @@
+[0.009s] Invoking command in '/home/maker/ros2_ws/build/osorinCpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/maker/ros2_ws/src/osorinCpp -DCMAKE_INSTALL_PREFIX=/home/maker/ros2_ws/install/osorinCpp
+[0.017s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.107s] -- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+[0.126s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.128s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.131s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.138s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.147s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.180s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.182s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.250s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.340s] -- Found rclpy: 3.3.7 (/opt/ros/humble/share/rclpy/cmake)
+[0.397s] WARNING: Package name "osorinCpp" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.435s] WARNING: Package name "osorinCpp" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[0.442s] -- Configuring done
+[0.446s] -- Generating done
+[0.447s] -- Build files have been written to: /home/maker/ros2_ws/build/osorinCpp
+[0.451s] Invoked command in '/home/maker/ros2_ws/build/osorinCpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/maker/ros2_ws/src/osorinCpp -DCMAKE_INSTALL_PREFIX=/home/maker/ros2_ws/install/osorinCpp
+[0.453s] Invoking command in '/home/maker/ros2_ws/build/osorinCpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/maker/ros2_ws/build/osorinCpp -- -j8 -l8
+[0.485s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_exe.dir/src/cppNode.cpp.o[0m
+[0.489s] [ 50%] Built target ament_cmake_python_copy_osorinCpp
+[0.635s] running egg_info
+[0.635s] creating osorinCpp.egg-info
+[0.635s] writing osorinCpp.egg-info/PKG-INFO
+[0.635s] writing dependency_links to osorinCpp.egg-info/dependency_links.txt
+[0.635s] writing top-level names to osorinCpp.egg-info/top_level.txt
+[0.635s] writing manifest file 'osorinCpp.egg-info/SOURCES.txt'
+[0.637s] reading manifest file 'osorinCpp.egg-info/SOURCES.txt'
+[0.637s] writing manifest file 'osorinCpp.egg-info/SOURCES.txt'
+[0.653s] [ 50%] Built target ament_cmake_python_build_osorinCpp_egg
+[2.157s] [100%] [32m[1mLinking CXX executable cpp_exe[0m
+[2.234s] [100%] Built target cpp_exe
+[2.241s] Invoked command in '/home/maker/ros2_ws/build/osorinCpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/maker/ros2_ws/build/osorinCpp -- -j8 -l8
+[2.264s] Invoking command in '/home/maker/ros2_ws/build/osorinCpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/maker/ros2_ws/build/osorinCpp
+[2.270s] -- Install configuration: ""
+[2.270s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/cpp_exe
+[2.270s] -- Set runtime path of "/home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/cpp_exe" to ""
+[2.270s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/pythonpath.sh
+[2.270s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/pythonpath.dsv
+[2.270s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info
+[2.270s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/PKG-INFO
+[2.271s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/top_level.txt
+[2.271s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.271s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.271s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp
+[2.271s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/module_to_import.py
+[2.271s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/__init__.py
+[2.300s] Listing '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp'...
+[2.300s] Compiling '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/__init__.py'...
+[2.300s] Compiling '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/module_to_import.py'...
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/py_node.py
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/package_run_dependencies/osorinCpp
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/parent_prefix_path/osorinCpp
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/ament_prefix_path.sh
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/ament_prefix_path.dsv
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/path.sh
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/path.dsv
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.bash
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.sh
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.zsh
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.dsv
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/package.dsv
+[2.303s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/packages/osorinCpp
+[2.304s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/cmake/osorinCppConfig.cmake
+[2.304s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/cmake/osorinCppConfig-version.cmake
+[2.304s] -- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/package.xml
+[2.306s] Invoked command in '/home/maker/ros2_ws/build/osorinCpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/maker/ros2_ws/build/osorinCpp

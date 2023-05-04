@@ -1,0 +1,18 @@
+running egg_info
+writing ../../build/osorin/osorin.egg-info/PKG-INFO
+writing dependency_links to ../../build/osorin/osorin.egg-info/dependency_links.txt
+writing entry points to ../../build/osorin/osorin.egg-info/entry_points.txt
+writing requirements to ../../build/osorin/osorin.egg-info/requires.txt
+writing top-level names to ../../build/osorin/osorin.egg-info/top_level.txt
+reading manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+writing manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/osorin/osorin.egg-info to /home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/maker/ros2_ws/build/osorin/install.log'

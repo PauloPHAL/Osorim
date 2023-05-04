@@ -1,0 +1,8 @@
+source;share/osorinCpp/hook/cmake_prefix_path.ps1
+source;share/osorinCpp/hook/cmake_prefix_path.dsv
+source;share/osorinCpp/hook/cmake_prefix_path.sh
+source;share/osorinCpp/local_setup.bash
+source;share/osorinCpp/local_setup.dsv
+source;share/osorinCpp/local_setup.ps1
+source;share/osorinCpp/local_setup.sh
+source;share/osorinCpp/local_setup.zsh

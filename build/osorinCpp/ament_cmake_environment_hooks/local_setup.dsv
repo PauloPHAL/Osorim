@@ -1,0 +1,3 @@
+source;share/osorinCpp/environment/ament_prefix_path.sh
+source;share/osorinCpp/environment/path.sh
+source;share/osorinCpp/environment/pythonpath.sh

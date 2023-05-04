@@ -1,0 +1,77 @@
+[0.000000] (-) TimerEvent: {}
+[0.000108] (-) JobUnselected: {'identifier': 'examples_rclcpp_async_client'}
+[0.000157] (-) JobUnselected: {'identifier': 'examples_rclcpp_cbg_executor'}
+[0.000169] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_client'}
+[0.000179] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_action_server'}
+[0.000189] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_client'}
+[0.000198] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_composition'}
+[0.000207] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_publisher'}
+[0.000216] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_service'}
+[0.000226] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_subscriber'}
+[0.000235] (-) JobUnselected: {'identifier': 'examples_rclcpp_minimal_timer'}
+[0.000244] (-) JobUnselected: {'identifier': 'examples_rclcpp_multithreaded_executor'}
+[0.000253] (-) JobUnselected: {'identifier': 'examples_rclcpp_wait_set'}
+[0.000262] (-) JobUnselected: {'identifier': 'examples_rclpy_executors'}
+[0.000271] (-) JobUnselected: {'identifier': 'examples_rclpy_guard_conditions'}
+[0.000280] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_client'}
+[0.000289] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_action_server'}
+[0.000299] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_client'}
+[0.000308] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_publisher'}
+[0.000317] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_service'}
+[0.000327] (-) JobUnselected: {'identifier': 'examples_rclpy_minimal_subscriber'}
+[0.000336] (-) JobUnselected: {'identifier': 'examples_rclpy_pointcloud_publisher'}
+[0.000346] (-) JobUnselected: {'identifier': 'launch_testing_examples'}
+[0.000354] (-) JobUnselected: {'identifier': 'my_robot_controller'}
+[0.000363] (-) JobUnselected: {'identifier': 'osorin'}
+[0.000374] (osorinCpp) JobQueued: {'identifier': 'osorinCpp', 'dependencies': OrderedDict()}
+[0.000386] (osorinCpp) JobStarted: {'identifier': 'osorinCpp'}
+[0.007422] (osorinCpp) JobProgress: {'identifier': 'osorinCpp', 'progress': 'cmake'}
+[0.007550] (osorinCpp) Command: {'cmd': ['/usr/bin/cmake', '/home/maker/ros2_ws/src/osorinCpp', '-DCMAKE_INSTALL_PREFIX=/home/maker/ros2_ws/install/osorinCpp'], 'cwd': '/home/maker/ros2_ws/build/osorinCpp', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'maker'), ('LC_TIME', 'pt_BR.UTF-8'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/maker/ros2_ws/install/examples_rclcpp_wait_set/lib:/home/maker/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib:/home/maker/ros2_ws/install/examples_rclcpp_minimal_composition/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/maker'), ('OLDPWD', '/home/maker/ros2_ws/src'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('LC_MONETARY', 'pt_BR.UTF-8'), ('LC_CTYPE', 'pt_BR.UTF-8'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('SYSTEMD_EXEC_PID', '1901'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=c3c259ef3117300c71d934f06452813d'), ('COLORTERM', 'truecolor'), ('COLCON_PREFIX_PATH', '/home/maker/ros2_ws/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'maker'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'maker'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/maker-ThinkPad-E14-Gen-2:@/tmp/.ICE-unix/1901,unix/maker-ThinkPad-E14-Gen-2:/tmp/.ICE-unix/1901'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'pt_BR.UTF-8'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/acbe1542_3d4d_4fe2_89ed_4e663826a855'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('LC_TELEPHONE', 'pt_BR.UTF-8'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.158'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/my_robot_controller:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/home/maker/ros2_ws/install/examples_rclcpp_wait_set:/home/maker/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/maker/ros2_ws/install/examples_rclcpp_minimal_timer:/home/maker/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclcpp_minimal_service:/home/maker/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/maker/ros2_ws/install/examples_rclcpp_minimal_composition:/home/maker/ros2_ws/install/examples_rclcpp_minimal_client:/home/maker/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/maker/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/maker/ros2_ws/install/examples_rclcpp_cbg_executor:/home/maker/ros2_ws/install/examples_rclcpp_async_client:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('LC_NAME', 'pt_BR.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('LC_MEASUREMENT', 'pt_BR.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'pt_BR.UTF-8'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/maker/ros2_ws/build/osorinCpp'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=c3c259ef3117300c71d934f06452813d'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages:/home/maker/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:/home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('LC_NUMERIC', 'pt_BR.UTF-8'), ('LC_PAPER', 'pt_BR.UTF-8'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/home/maker/ros2_ws/install/my_robot_controller:/home/maker/ros2_ws/install/examples_rclcpp_wait_set:/home/maker/ros2_ws/install/examples_rclcpp_multithreaded_executor:/home/maker/ros2_ws/install/examples_rclcpp_minimal_timer:/home/maker/ros2_ws/install/examples_rclcpp_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclcpp_minimal_service:/home/maker/ros2_ws/install/examples_rclcpp_minimal_publisher:/home/maker/ros2_ws/install/examples_rclcpp_minimal_composition:/home/maker/ros2_ws/install/examples_rclcpp_minimal_client:/home/maker/ros2_ws/install/examples_rclcpp_minimal_action_server:/home/maker/ros2_ws/install/examples_rclcpp_minimal_action_client:/home/maker/ros2_ws/install/examples_rclcpp_cbg_executor:/home/maker/ros2_ws/install/examples_rclcpp_async_client:/home/maker/ros2_ws/install/osorin:/home/maker/ros2_ws/install/launch_testing_examples:/home/maker/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/maker/ros2_ws/install/examples_rclpy_minimal_service:/home/maker/ros2_ws/install/examples_rclpy_minimal_publisher:/home/maker/ros2_ws/install/examples_rclpy_minimal_client:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_client:/home/maker/ros2_ws/install/examples_rclpy_guard_conditions:/home/maker/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble')]), 'shell': False}
+[0.041614] (osorinCpp) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.3.0\n'}
+[0.080178] (osorinCpp) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.3.0\n'}
+[0.084209] (osorinCpp) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.099117] (-) TimerEvent: {}
+[0.132893] (osorinCpp) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.137523] (osorinCpp) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.137596] (osorinCpp) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.137738] (osorinCpp) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.139548] (osorinCpp) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.190847] (osorinCpp) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.195217] (osorinCpp) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.195326] (osorinCpp) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.195521] (osorinCpp) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.197944] (osorinCpp) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.199197] (-) TimerEvent: {}
+[0.299430] (-) TimerEvent: {}
+[0.309798] (osorinCpp) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter \n'}
+[0.381069] (osorinCpp) StdoutLine: {'line': b'-- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.399583] (-) TimerEvent: {}
+[0.413995] (osorinCpp) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.418357] (osorinCpp) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.424563] (osorinCpp) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.434836] (osorinCpp) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.448692] (osorinCpp) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.497837] (osorinCpp) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.499748] (-) TimerEvent: {}
+[0.500333] (osorinCpp) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[0.560089] (osorinCpp) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  \n'}
+[0.576350] (osorinCpp) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/humble/include  \n'}
+[0.599903] (-) TimerEvent: {}
+[0.603987] (osorinCpp) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[0.611835] (osorinCpp) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[0.658933] (osorinCpp) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[0.659059] (osorinCpp) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[0.700017] (-) TimerEvent: {}
+[0.720274] (osorinCpp) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[0.721141] (osorinCpp) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[0.800180] (-) TimerEvent: {}
+[0.824815] (osorinCpp) StdoutLine: {'line': b'-- Found rclpy: 3.3.7 (/opt/ros/humble/share/rclpy/cmake)\n'}
+[0.825421] (osorinCpp) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[0.825485] (osorinCpp) StdoutLine: {'line': b'See also "/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/CMakeOutput.log".\n'}
+[0.825522] (osorinCpp) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:26 (ament_python_install_packages):\n'}
+[0.825567] (osorinCpp) StderrLine: {'line': b'  Unknown CMake command "ament_python_install_packages".\n'}
+[0.825602] (osorinCpp) StderrLine: {'line': b'\n'}
+[0.825635] (osorinCpp) StderrLine: {'line': b'\x1b[0m\n'}
+[0.830563] (osorinCpp) CommandEnded: {'returncode': 1}
+[0.844259] (osorinCpp) JobEnded: {'identifier': 'osorinCpp', 'rc': 1}
+[0.854702] (-) EventReactorShutdown: {}

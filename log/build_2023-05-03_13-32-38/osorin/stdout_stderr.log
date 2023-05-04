@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/osorin/osorin.egg-info
+writing ../../build/osorin/osorin.egg-info/PKG-INFO
+writing dependency_links to ../../build/osorin/osorin.egg-info/dependency_links.txt
+writing entry points to ../../build/osorin/osorin.egg-info/entry_points.txt
+writing requirements to ../../build/osorin/osorin.egg-info/requires.txt
+writing top-level names to ../../build/osorin/osorin.egg-info/top_level.txt
+writing manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+reading manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+writing manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/maker/ros2_ws/build/osorin/build
+creating /home/maker/ros2_ws/build/osorin/build/lib
+creating /home/maker/ros2_ws/build/osorin/build/lib/osorin
+copying osorin/__init__.py -> /home/maker/ros2_ws/build/osorin/build/lib/osorin
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin
+copying /home/maker/ros2_ws/build/osorin/build/lib/osorin/__init__.py -> /home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin
+byte-compiling /home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/maker/ros2_ws/install/osorin/share/ament_index
+creating /home/maker/ros2_ws/install/osorin/share/ament_index/resource_index
+creating /home/maker/ros2_ws/install/osorin/share/ament_index/resource_index/packages
+copying resource/osorin -> /home/maker/ros2_ws/install/osorin/share/ament_index/resource_index/packages
+copying package.xml -> /home/maker/ros2_ws/install/osorin/share/osorin
+running install_egg_info
+Copying ../../build/osorin/osorin.egg-info to /home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/maker/ros2_ws/build/osorin/install.log'

@@ -1,0 +1,7 @@
+setup.py
+osorinCpp/__init__.py
+osorinCpp/module_to_import.py
+osorinCpp.egg-info/PKG-INFO
+osorinCpp.egg-info/SOURCES.txt
+osorinCpp.egg-info/dependency_links.txt
+osorinCpp.egg-info/top_level.txt

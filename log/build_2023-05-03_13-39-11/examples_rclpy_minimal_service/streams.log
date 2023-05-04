@@ -1,0 +1,25 @@
+[1.169s] Invoking command in '/home/maker/ros2_ws/build/examples_rclpy_minimal_service': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_minimal_service/build
+[1.412s] running develop
+[1.562s] Invoked command in '/home/maker/ros2_ws/build/examples_rclpy_minimal_service' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_minimal_service/build
+[1.563s] Invoking command in '/home/maker/ros2_ws/src/examples/rclpy/services/minimal_service': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /home/maker/ros2_ws/build/examples_rclpy_minimal_service/build install --record /home/maker/ros2_ws/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed
+[1.844s] running egg_info
+[1.846s] writing ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/PKG-INFO
+[1.846s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[1.846s] writing entry points to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/entry_points.txt
+[1.846s] writing requirements to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/requires.txt
+[1.846s] writing top-level names to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/top_level.txt
+[1.849s] reading manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.851s] writing manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[1.852s] running build
+[1.852s] running build_py
+[1.852s] running install
+[1.852s] running install_lib
+[1.852s] running install_data
+[1.853s] running install_egg_info
+[1.856s] removing '/home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service-0.15.1-py3.10.egg-info' (and everything under it)
+[1.856s] Copying ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info to /home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service-0.15.1-py3.10.egg-info
+[1.857s] running install_scripts
+[1.880s] Installing service script to /home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[1.880s] Installing service_member_function script to /home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[1.880s] writing list of installed files to '/home/maker/ros2_ws/build/examples_rclpy_minimal_service/install.log'
+[1.918s] Invoked command in '/home/maker/ros2_ws/src/examples/rclpy/services/minimal_service' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /home/maker/ros2_ws/build/examples_rclpy_minimal_service/build install --record /home/maker/ros2_ws/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed

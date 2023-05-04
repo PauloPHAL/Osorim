@@ -1,0 +1,4 @@
+source;share/osorinCpp/local_setup.bash
+source;share/osorinCpp/local_setup.dsv
+source;share/osorinCpp/local_setup.sh
+source;share/osorinCpp/local_setup.zsh

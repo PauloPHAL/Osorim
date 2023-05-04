@@ -1,0 +1,20 @@
+[0.793s] Invoking command in '/home/maker/ros2_ws/src/osorin': PYTHONPATH=/home/maker/ros2_ws/build/osorin/prefix_override:/home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/osorin build --build-base /home/maker/ros2_ws/build/osorin/build install --record /home/maker/ros2_ws/build/osorin/install.log --single-version-externally-managed
+[0.957s] running egg_info
+[0.957s] writing ../../build/osorin/osorin.egg-info/PKG-INFO
+[0.957s] writing dependency_links to ../../build/osorin/osorin.egg-info/dependency_links.txt
+[0.957s] writing entry points to ../../build/osorin/osorin.egg-info/entry_points.txt
+[0.957s] writing requirements to ../../build/osorin/osorin.egg-info/requires.txt
+[0.957s] writing top-level names to ../../build/osorin/osorin.egg-info/top_level.txt
+[0.958s] reading manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+[0.959s] writing manifest file '../../build/osorin/osorin.egg-info/SOURCES.txt'
+[0.959s] running build
+[0.959s] running build_py
+[0.959s] running install
+[0.960s] running install_lib
+[0.960s] running install_data
+[0.960s] running install_egg_info
+[0.961s] removing '/home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin-0.0.0-py3.10.egg-info' (and everything under it)
+[0.962s] Copying ../../build/osorin/osorin.egg-info to /home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages/osorin-0.0.0-py3.10.egg-info
+[0.962s] running install_scripts
+[0.975s] writing list of installed files to '/home/maker/ros2_ws/build/osorin/install.log'
+[0.994s] Invoked command in '/home/maker/ros2_ws/src/osorin' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/osorin/prefix_override:/home/maker/ros2_ws/install/osorin/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/osorin build --build-base /home/maker/ros2_ws/build/osorin/build install --record /home/maker/ros2_ws/build/osorin/install.log --single-version-externally-managed

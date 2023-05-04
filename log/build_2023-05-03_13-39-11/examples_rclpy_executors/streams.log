@@ -1,0 +1,29 @@
+[1.302s] Invoking command in '/home/maker/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_executors/build
+[1.594s] running develop
+[1.876s] Invoked command in '/home/maker/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_executors/build
+[1.877s] Invoking command in '/home/maker/ros2_ws/src/examples/rclpy/executors': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/maker/ros2_ws/build/examples_rclpy_executors/build install --record /home/maker/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed
+[2.156s] running egg_info
+[2.157s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[2.157s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[2.157s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[2.157s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[2.157s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[2.160s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.161s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[2.161s] running build
+[2.161s] running build_py
+[2.162s] running install
+[2.162s] running install_lib
+[2.164s] running install_data
+[2.164s] running install_egg_info
+[2.166s] removing '/home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info' (and everything under it)
+[2.167s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.1-py3.10.egg-info
+[2.172s] running install_scripts
+[2.199s] Installing callback_group script to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.199s] Installing composed script to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.200s] Installing custom_callback_group script to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.200s] Installing custom_executor script to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.200s] Installing listener script to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.200s] Installing talker script to /home/maker/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[2.201s] writing list of installed files to '/home/maker/ros2_ws/build/examples_rclpy_executors/install.log'
+[2.277s] Invoked command in '/home/maker/ros2_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/maker/ros2_ws/build/examples_rclpy_executors/build install --record /home/maker/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed

@@ -1,0 +1,34 @@
+[3.116s] Invoking command in '/home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps install_data
+[4.000s] running develop
+[4.001s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.001s]   warnings.warn(
+[4.001s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.001s]   warnings.warn(
+[4.154s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[4.154s]   warnings.warn(
+[4.155s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[4.155s]   warnings.warn(
+[4.468s] running egg_info
+[4.468s] creating examples_rclpy_minimal_subscriber.egg-info
+[4.468s] writing examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[4.468s] writing dependency_links to examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[4.469s] writing entry points to examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[4.469s] writing requirements to examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[4.469s] writing top-level names to examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[4.469s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[4.471s] reading manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[4.472s] writing manifest file 'examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[4.473s] running build_ext
+[4.473s] Creating /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[4.474s] Installing subscriber_lambda script to /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[4.475s] Installing subscriber_member_function script to /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[4.475s] Installing subscriber_old_school script to /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[4.475s] 
+[4.475s] Installed /home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber
+[4.475s] running install_data
+[4.475s] creating /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index
+[4.475s] creating /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index
+[4.475s] creating /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[4.475s] copying resource/examples_rclpy_minimal_subscriber -> /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/share/ament_index/resource_index/packages
+[4.475s] copying package.xml -> /home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/share/examples_rclpy_minimal_subscriber
+[4.625s] Invoked command in '/home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_minimal_subscriber/build --no-deps install_data

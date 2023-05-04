@@ -1,0 +1,15 @@
+/home/maker/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/package_run_dependencies/my_robot_controller
+/home/maker/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/parent_prefix_path/my_robot_controller
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.sh
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.dsv
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.sh
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/environment/path.dsv
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.bash
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.sh
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.zsh
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/local_setup.dsv
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.dsv
+/home/maker/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig.cmake
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig-version.cmake
+/home/maker/ros2_ws/install/my_robot_controller/share/my_robot_controller/package.xml

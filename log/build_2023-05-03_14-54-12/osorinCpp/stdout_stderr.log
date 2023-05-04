@@ -1,0 +1,39 @@
+[35m[1mConsolidate compiler generated dependencies of target cpp_exe[0m
+[100%] Built target cpp_exe
+[100%] Built target ament_cmake_python_copy_osorinCpp
+running egg_info
+writing osorinCpp.egg-info/PKG-INFO
+writing dependency_links to osorinCpp.egg-info/dependency_links.txt
+writing top-level names to osorinCpp.egg-info/top_level.txt
+reading manifest file 'osorinCpp.egg-info/SOURCES.txt'
+writing manifest file 'osorinCpp.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_osorinCpp_egg
+-- Install configuration: ""
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/cpp_exe
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/pythonpath.sh
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/pythonpath.dsv
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/module_to_import.py
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/__init__.py
+Listing '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp'...
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/py_node.py
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/package_run_dependencies/osorinCpp
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/parent_prefix_path/osorinCpp
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/ament_prefix_path.sh
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/path.sh
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/path.dsv
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.bash
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.sh
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.zsh
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.dsv
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/package.dsv
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/packages/osorinCpp
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/cmake/osorinCppConfig.cmake
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/cmake/osorinCppConfig-version.cmake
+-- Up-to-date: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/package.xml

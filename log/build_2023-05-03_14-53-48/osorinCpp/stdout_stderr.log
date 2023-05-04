@@ -1,0 +1,61 @@
+-- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.3 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclpy: 3.3.7 (/opt/ros/humble/share/rclpy/cmake)
+WARNING: Package name "osorinCpp" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "osorinCpp" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/maker/ros2_ws/build/osorinCpp
+[ 50%] [32mBuilding CXX object CMakeFiles/cpp_exe.dir/src/cppNode.cpp.o[0m
+[ 50%] Built target ament_cmake_python_copy_osorinCpp
+running egg_info
+creating osorinCpp.egg-info
+writing osorinCpp.egg-info/PKG-INFO
+writing dependency_links to osorinCpp.egg-info/dependency_links.txt
+writing top-level names to osorinCpp.egg-info/top_level.txt
+writing manifest file 'osorinCpp.egg-info/SOURCES.txt'
+reading manifest file 'osorinCpp.egg-info/SOURCES.txt'
+writing manifest file 'osorinCpp.egg-info/SOURCES.txt'
+[ 50%] Built target ament_cmake_python_build_osorinCpp_egg
+[100%] [32m[1mLinking CXX executable cpp_exe[0m
+[100%] Built target cpp_exe
+-- Install configuration: ""
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/cpp_exe
+-- Set runtime path of "/home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/cpp_exe" to ""
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/pythonpath.sh
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/pythonpath.dsv
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/top_level.txt
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/module_to_import.py
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/__init__.py
+Listing '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp'...
+Compiling '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/__init__.py'...
+Compiling '/home/maker/ros2_ws/install/osorinCpp/local/lib/python3.10/dist-packages/osorinCpp/module_to_import.py'...
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/lib/osorinCpp/py_node.py
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/package_run_dependencies/osorinCpp
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/parent_prefix_path/osorinCpp
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/ament_prefix_path.sh
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/ament_prefix_path.dsv
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/path.sh
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/environment/path.dsv
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.bash
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.sh
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.zsh
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/local_setup.dsv
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/package.dsv
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/ament_index/resource_index/packages/osorinCpp
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/cmake/osorinCppConfig.cmake
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/cmake/osorinCppConfig-version.cmake
+-- Installing: /home/maker/ros2_ws/install/osorinCpp/share/osorinCpp/package.xml

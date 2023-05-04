@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/osorin/osorin.egg-info/PKG-INFO
+../../build/osorin/osorin.egg-info/SOURCES.txt
+../../build/osorin/osorin.egg-info/dependency_links.txt
+../../build/osorin/osorin.egg-info/entry_points.txt
+../../build/osorin/osorin.egg-info/requires.txt
+../../build/osorin/osorin.egg-info/top_level.txt
+../../build/osorin/osorin.egg-info/zip-safe
+osorin/__init__.py
+resource/osorin
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

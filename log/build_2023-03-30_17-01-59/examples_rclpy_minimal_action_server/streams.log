@@ -1,0 +1,36 @@
+[2.252s] Invoking command in '/home/maker/ros2_ws/build/examples_rclpy_minimal_action_server': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_minimal_action_server/build --no-deps install_data
+[7.180s] running develop
+[7.180s] running egg_info
+[7.180s] creating examples_rclpy_minimal_action_server.egg-info
+[7.180s] writing examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[7.180s] writing dependency_links to examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[7.180s] writing entry points to examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[7.180s] writing requirements to examples_rclpy_minimal_action_server.egg-info/requires.txt
+[7.180s] writing top-level names to examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[7.180s] writing manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[7.180s] reading manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[7.180s] writing manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[7.180s] running build_ext
+[7.180s] Creating /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples-rclpy-minimal-action-server.egg-link (link to .)
+[7.180s] Installing server script to /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.180s] Installing server_defer script to /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.181s] Installing server_not_composable script to /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.181s] Installing server_queue_goals script to /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.181s] Installing server_single_goal script to /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[7.181s] 
+[7.181s] Installed /home/maker/ros2_ws/build/examples_rclpy_minimal_action_server
+[7.181s] running install_data
+[7.181s] creating /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index
+[7.181s] creating /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[7.181s] creating /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[7.181s] copying resource/examples_rclpy_minimal_action_server -> /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[7.181s] copying package.xml -> /home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[7.181s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[7.181s]   warnings.warn(
+[7.181s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[7.181s]   warnings.warn(
+[7.181s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[7.181s]   warnings.warn(
+[7.181s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[7.181s]   warnings.warn(
+[7.212s] Invoked command in '/home/maker/ros2_ws/build/examples_rclpy_minimal_action_server' returned '0': PYTHONPATH=/home/maker/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/maker/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/maker/ros2_ws/build/examples_rclpy_minimal_action_server/build --no-deps install_data

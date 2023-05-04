@@ -1,0 +1,12 @@
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/uninstall.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/osorinCpp_uninstall.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/cpp_exe.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/ament_cmake_python_copy_osorinCpp.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/ament_cmake_python_build_osorinCpp_egg.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/test.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/edit_cache.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/rebuild_cache.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/list_install_components.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/install.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/install/local.dir
+/home/maker/ros2_ws/build/osorinCpp/CMakeFiles/install/strip.dir
